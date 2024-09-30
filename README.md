@@ -14,13 +14,6 @@
   <li><b>Google Colab</b> - All the outputs are visible in the provided colab notebook.
 </ul>
 
-<h4>Data Source:</h4>
-<ul>
-  <li><b>Dataset</b> - https://www.kaggle.com/c/data-champions-android-permissions-malware/data</li>
-</ul>
-
-
-<h2> :book: XGBoost</h2>
 
 <p>Technologies Used
 1. OpenCV: For image processing and video analysis.
