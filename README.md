@@ -15,7 +15,8 @@
 </ul>
 
 
-<p>Technologies Used
+<p>Technologies Used :
+  
 1. OpenCV: For image processing and video analysis.
 2. TensorFlow/Keras: To build and train the deep learning model for pose estimation and rep counting.
 3. MediaPipe: Utilized for detecting body landmarks and ensuring accurate form assessment.
